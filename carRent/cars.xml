@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cars>
+    <car id = "Camry">
+        <category>sedan</category>
+        <availability>Y</availability>
+        <brand>Toyota</brand>
+        <model>Camry</model>
+        <modelYear>2013</modelYear>
+        <mileage>10000</mileage>
+        <fuelType>petrol</fuelType>
+        <seats>5</seats>
+        <price>120</price>
+        <description>Best sedan ever</description>
+    </car>
+
+        <car id="32Oi">
+            <category>sedan</category>
+            <availability>Y</availability>
+            <brand>BMW</brand>
+            <model>32Oi</model>
+            <modelYear>2013</modelYear>
+            <mileage>12000</mileage>
+            <fuelType>petrol</fuelType>
+            <seats>5</seats>
+            <price>220</price>
+            <description>Luxury car brings more experience</description>
+        </car>
+
+        <car id="Civic">
+            <category>sedan</category>
+            <availability>Y</availability>
+            <brand>Honda</brand>
+            <model>Civic</model>
+            <modelYear>2012</modelYear>
+            <mileage>20000</mileage>
+            <fuelType>petrol</fuelType>
+            <seats>5</seats>
+            <price>120</price>
+            <description>Much comfortable than before</description>
+        </car>
+
+        <car id="Sonata">
+            <category>sedan</category>
+            <availability>N</availability>
+            <brand>Hyundai</brand>
+            <model>Sonata</model>
+            <modelYear>2015</modelYear>
+            <mileage>9000</mileage>
+            <fuelType>petrol</fuelType>
+            <seats>5</seats>
+            <price>100</price>
+            <description>Automatic driving</description>
+        </car>
+
+        <car id="Golf">
+            <category>sedan</category>
+            <availability>Y</availability>
+            <brand>Volkswagen</brand>
+            <model>Golf</model>
+            <modelYear>2018</modelYear>
+            <mileage>10000</mileage>
+            <fuelType>petrol</fuelType>
+            <seats>4</seats>
+            <price>90</price>
+            <description>Easy to drive</description>
+        </car>
+
+        <car id="GLC">
+            <category>SUV</category>
+            <availability>N</availability>
+            <brand>Mercedes-Benz</brand>
+            <model>GLC</model>
+            <modelYear>2019</modelYear>
+            <mileage>5000</mileage>
+            <fuelType>petrol</fuelType>
+            <seats>5</seats>
+            <price>300</price>
+            <description>Comfortable and Luxury</description>
+        </car>
+
+        <car id="Jimny">
+            <category>SUV</category>
+            <availability>Y</availability>
+            <brand>Suzuki</brand>
+            <model>Jimny</model>
+            <modelYear>2013</modelYear>
+            <mileage>20000</mileage>
+            <fuelType>petrol</fuelType>
+            <seats>5</seats>
+            <price>120</price>
+            <description>Best for travel</description>
+        </car>
+
+        <car id="Cherokee">
+            <category>SUV</category>
+            <availability>Y</availability>
+            <brand>Jeep</brand>
+            <model>Cherokee</model>
+            <modelYear>2017</modelYear>
+            <mileage>25000</mileage>
+            <fuelType>petrol</fuelType>
+            <seats>5</seats>
+            <price>200</price>
+            <description>Larger vision</description>
+        </car>
+
+        <car id="Captiva">
+            <category>SUV</category>
+            <availability>Y</availability>
+            <brand>Chevrolet</brand>
+            <model>Captiva</model>
+            <modelYear>2010</modelYear>
+            <mileage>50000</mileage>
+            <fuelType>petrol</fuelType>
+            <seats>5</seats>
+            <price>100</price>
+            <description>Best for family</description>
+        </car>
+
+        <car id="X-trail">
+            <category>Wagon</category>
+            <availability>N</availability>
+            <brand>Nissan</brand>
+            <model>X-trail</model>
+            <modelYear>2015</modelYear>
+            <mileage>20000</mileage>
+            <fuelType>petrol</fuelType>
+            <seats>5</seats>
+            <price>150</price>
+            <description>Best wagon ever</description>
+        </car>
+</cars>

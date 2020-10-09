@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#header
+{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+
+#hertz
+{
+    width: 8%;
+    height: 30px;
+    background-color: white;
+    float: left;
+}
+
+#center
+{
+    width: 81%;
+    height: 50px;
+    font-size: 25px;
+    color: white;
+    float: left;
+    text-align: center;
+    line-height: 50px;
+}
+
+#cart
+{
+    width: 11%;
+    height: 20px;
+    float: right;
+    background-color: dodgerblue;
+    text-align: center;
+    line-height: 20px;
+}
+
+#carInfo
+{
+    /*height: 100vh;*/
+    width: 100%;
+}
+
+table
+{
+    float: left;
+    width: 22%;
+    height: 80vh;
+    border: 1px solid lightgrey;
+    /*border-collapse:collapse;*/
+    margin: 20px 0 10px 50px;
+}
+
+table img
+{
+    width: 100%;
+    /*height: 40%;*/
+}
+
+#cartPic
+{
+   width: 20%;
+    height: 20%;
+}
+
+#processBtn
+{
+    background-color: dodgerblue;
+    float: right;
+    position: absolute;
+    right: 0;
+}
+
+#infoTable
+{
+    width: 70%;
+    border: none;
+}
